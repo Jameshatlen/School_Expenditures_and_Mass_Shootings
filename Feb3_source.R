@@ -48,3 +48,4 @@ group = "2016")
 
 
 #above is latest
+#html doesnt work for labels, only popups (not fixed yet)
