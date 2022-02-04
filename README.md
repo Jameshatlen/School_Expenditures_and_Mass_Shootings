@@ -1,5 +1,6 @@
-# School_Expenditures_and_Mass_Shootings
+  School_Expenditures_and_Mass_Shootings
 ------------------------------------------------------------
+
 
 
 
@@ -27,3 +28,5 @@ Leaflet tutorials:
 
 https://learn.r-journalism.com/en/mapping/census_maps/census-maps/
 https://app.datacamp.com/learn/courses/interactive-maps-with-leaflet-in-r
+https://rstudio.github.io/leaflet/choropleths.html
+

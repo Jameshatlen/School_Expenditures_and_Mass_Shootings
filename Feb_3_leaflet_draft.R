@@ -22,6 +22,8 @@ library(maps)
 #my own are:
 #popup_2016 <- paste0("$", as.character(state_w_expenditures$X2016))
 #popup_2015 <- paste0("$", as.character(state_w_expenditures$X2015))
+#popup_2015_names <- paste0(as.character(state_w_expenditures_na_num$NAME),": $", as.character(state_w_expenditures_na_num$X2015))
+
 
 leaflet() %>%
 addProviderTiles("CartoDB.Positron") %>%
