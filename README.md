@@ -1,9 +1,6 @@
   School_Expenditures_and_Mass_Shootings
 ------------------------------------------------------------
-
-
-
-
+![path](/School_Expenditures_and_Mass_Shootings.png)
 
 
 
