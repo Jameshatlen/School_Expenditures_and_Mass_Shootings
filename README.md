@@ -4,6 +4,8 @@
 
 The purpose of this project was to visualize government education expenditures by state concurrently with the mass shootings of the same years.
 
+[The Widget](/Widget_School_Expenditures_and_Mass_Shootings.html)
+
 RESOURCES
 ------------------------------------------------------------
 **Data:**
