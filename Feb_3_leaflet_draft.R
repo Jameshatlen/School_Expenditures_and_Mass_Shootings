@@ -1,8 +1,9 @@
-library(leaflet)
+library(leaflet) #only one need to run the code
 library(dbplyr)
 library(colorspace)
 library(htmltools)
 library(maps)
+library(tigris)
 
 #fillcolor_expenditures  is a colornumeric object
 #plasma is from the veridis package I think

@@ -4,11 +4,13 @@
 #a tmap from scratch
 #-using shiny to add features and graphs
 #-finding a better dataset on shootings or make a csv file from the 
-#-complete wikipedia mass shootings list
+#complete wikipedia mass shootings list
 #(this data set have very few shootings for all the years it claims 
 #to cover besides 2015 and 2016)
-#finding some more interesting state and location data
+#-finding some more interesting state and location data
 #use graphs show correlation (shiny to display)
+
+library(leaflet)
 
 leaflet() %>%
   addProviderTiles("CartoDB.Positron") %>%
