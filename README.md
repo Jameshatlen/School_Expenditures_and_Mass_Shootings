@@ -1,10 +1,11 @@
   School_Expenditures_and_Mass_Shootings
 ------------------------------------------------------------
-![path](/School_Expenditures_and_Mass_Shootings.png)
-
-The purpose of this project was to visualize government education expenditures by state concurrently with the mass shootings of the same years.
+The purpose of this project was to visualize government education expenditures by state concurrently with the mass shootings of the same years. The motivating question was whether or not there is any relationship between the two. No such relationship was found.
 
 [The Widget](/Widget_School_Expenditures_and_Mass_Shootings.html)
+
+![path](/School_Expenditures_and_Mass_Shootings.png)
+
 
 RESOURCES
 ------------------------------------------------------------
